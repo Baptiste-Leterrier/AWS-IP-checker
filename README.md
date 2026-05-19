@@ -2,7 +2,7 @@
 
 [![AWS IP Checker](https://img.shields.io/badge/AWS-IP%20Checker-orange)](https://github.com/Baptiste-Leterrier/AWS-IP-checker)
 
-A real-time web application to identify AWS services and regions for any IP address. Check if an IP belongs to AWS infrastructure and get detailed information about the associated service, region, and CIDR block.
+A real-time web application to identify AWS services and regions for any IP address. Check if an IP belongs to AWS infrastructure and get detailed information about the associated service, region, [...]
 
 ## 🌟 Features
 
@@ -19,7 +19,9 @@ A real-time web application to identify AWS services and regions for any IP addr
 
 ### Quick Start
 
-Simply open the `index.html` file in your web browser:
+**Use it online:** https://baptiste-leterrier.github.io/AWS-IP-checker/
+
+Or run locally by cloning this repo:
 
 ```bash
 git clone https://github.com/Baptiste-Leterrier/AWS-IP-checker.git
@@ -31,7 +33,7 @@ xdg-open index.html  # Linux
 start index.html  # Windows
 ```
 
-Or use it online by cloning this repo and serving the file via any web server:
+Or use any web server:
 
 ```bash
 # Using Python
